@@ -5,9 +5,23 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-image: url('../src/images/pragii-pX829a6ObhE-unsplash.jpg');
+  background-size: cover;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+* {
+  font-family: 'Press Start 2P', cursive;
+}
+
+p{
+  color:white;
+}
+
+h5{
+  color:black;
 }
